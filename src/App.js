@@ -12,7 +12,7 @@ function App() {
       <ItemListContainer greeting={'¡Control your spaces!'} />
       <section>
         <div className="column is-4">
-          <ItemCount/>
+        <ItemCount/>
         </div>
       </section>
   
